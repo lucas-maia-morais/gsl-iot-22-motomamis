@@ -113,13 +113,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] A
-- [x] B
-- [ ] C
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] [Icebreaker (10%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#icebreaker)
+    - [x] [Icebreaker Video (5%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#ice_video)
+    - [x] [Reply to your peers (5%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#ice_reply)
+- [ ] [Collaboration (80%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#collaboration)
+    - [ ] [Project Setup (10%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#col_set)
+    - [ ] [Client and Edge Stage (10%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#col_cli)  
+    - [ ] [Cloud Stage (10%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#col_cloud)  
+    - [ ] [Final Presentation (50%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#col_ppt)  
+- [ ] [Reflection (10%)](https://github.com/kabartsjc/gsl-iot-2022/blob/main/DELIVERABLES.md#reflection)
 
 See the [open issues](https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues) for a full list of proposed features (and known issues).
 
