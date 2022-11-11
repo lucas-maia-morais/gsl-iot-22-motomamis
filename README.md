@@ -16,7 +16,7 @@
   <p align="center">
     An IoT/Network project.
     <br />
-    <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/tree/master/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues">Report Bug</a>
@@ -84,7 +84,7 @@ _Installation process._
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For examples, please refer to the [Documentation](https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/docs)_
+_For examples, please refer to the [Documentation](https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/tree/master/docs)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
