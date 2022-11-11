@@ -58,7 +58,8 @@ University exchange project between ITA and TEC students
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## About the project
-We're proposing one solution on the communication problem in flood catastrophes using drones (IoT) and Wifi communication to help rescue central identify isolated people.
+The project is a collaboration between students from [TEC Montrrey](https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education) and [ITA](https://en.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_Aeron%C3%A1utica) and is divided in three different stages. The first stage is an integration between the students, the second stage is the development and the implementation of the project, and the third and final stage is the reflection, in which each student shares his/her experience during the project. 
+In the second part, a technological solution will be developed and implemented in order to help with the communication problem during flood catastrophes using drones (IoT) and Wifi protocol to help the rescue central to identify isolated people. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
