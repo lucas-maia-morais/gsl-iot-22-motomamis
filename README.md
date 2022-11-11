@@ -20,4 +20,4 @@ We're proposing one solution on the communication problem in flood catastrophes 
 [issues-url]: https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/blob/master/LICENSE.txt
+[license-url]: https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/blob/master/LICENSE
