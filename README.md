@@ -7,7 +7,7 @@ We're proposing one solution on the communication problem in flood catastrophes 
 ## Motivation
 This a project to help victims in natural disasters, where communication is off and the rescue process is hard to be made in the usual way. Our project is more focused on the flood natural disasters, but it can be easily adapted to other disasters as earthquakes.
 
-To illustrate our point, the World Meteorological Organization (WMO) in 2021 has released a report that **45% of all deaths in the world are related to natural disasters** in the last 50 years considering the period from 1970 to 2019. Other important numbers are:
+To illustrate our point, the World Meteorological Organization (WMO) in 2021 has released a report that **45% of all deaths in the world are related to natural disasters** in the last 50 years considering the period from 1970 to 2019. [Other important numbers are](https://brasil.un.org/pt-br/142679-desastres-naturais-foram-responsaveis-por-45-de-todas-mortes-nos-ultimos-50-anos-mostra-omm#:~:text=De%201970%20a%202019%2C%20os,trilh%C3%B5es%20de%20d%C3%B3lares%20em%20perdas):
 - 11000 disasters are related to natural disasters
 - 2 million deaths are natural disasters related
 - 3.47 trillions of dollars were lost and today 383 millions are lost everyday in average
