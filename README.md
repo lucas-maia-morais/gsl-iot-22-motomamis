@@ -130,16 +130,61 @@ See the [open issues](https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+In order to contribute to the project, follow the following steps:
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+1. [Choose an existing issue](https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues) or [create a new one](https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues/new/choose) 
+2. Inside the issue, create a new branch
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+![image](https://user-images.githubusercontent.com/60040236/201423672-63c70f87-7cce-4258-9a7c-5a21f5bbb086.png)
+
+3. Clone the repository to your machine 
+```sh
+git clone https://github.com/lucas-maia-morais/gsl-iot-22-motomamis.git
+```
+or
+```sh
+git pull origin
+```
+4. Change to the new branch that you created 
+```sh
+git checkout <new-branch-name>
+```
+5. Make changes to the code
+6. Add the files that were changed 
+```sh
+git add <file1> <file2> ... <fileN>
+```
+7. Commit your Changes 
+```sh
+git commit -m "<Meaningful commit message>"
+```
+8. Push to the Branch 
+```sh
+git push origin <new-branch-name>
+```
+9. Open a Pull Request and assign someone to review your Pull Request (at least one review is necessary before merging to the master)
+
+
+
+Other than that, the following commands may be useful:
+* Check the status of the repository:
+```sh
+git status
+```
+* Show information about the commits that were made in this branch: 
+```sh
+git log
+```
+* Show the changes that were made to the file: 
+```sh
+git diff <filename>
+```
+* Change to the <target-branch>:
+```sh
+git checkout <target-branch>
+```
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
