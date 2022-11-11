@@ -29,6 +29,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#objective">Objective</a></li>
+    <li><a href="#motivation">Motivation</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
