@@ -4,6 +4,27 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Motomamis IoT/Network Project</h3>
+
+  <p align="center">
+    An IoT/Network project.
+    <br />
+    <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/docs"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/issues">Request Feature</a>
+  </p>
+</div>
+
 # ITA/TEC Motomamis IoT/Network Project
 University exchange project between ITA and TEC students
 
