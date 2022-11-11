@@ -13,7 +13,7 @@ To illustrate our point, the World Meteorological Organization (WMO) in 2021 has
 - 3.47 trillions of dollars were lost and today 383 millions are lost everyday in average
 - And 91% of deaths occured in developing countries like Brazil and Mexico
 
-Our idea here is to provide at least a help to improve these numbers by helping people and give humanitarian help by giving a solution to this technical problem proposed by our teachers from these course(https://github.com/kabartsjc/gsl-iot-2022). And for a scenario exemplification please check the following video:
+Our idea here is to provide at least a help to improve these numbers by helping people and give humanitarian help by giving a solution to this technical problem proposed by our teachers from these [course](https://github.com/kabartsjc/gsl-iot-2022). And for a scenario exemplification please check the following video:
 
 [![IMAGE_ALT](https://img.youtube.com/vi/PPkjYf4rd_E/0.jpg)](https://www.youtube.com/embed/PPkjYf4rd_E)
 
