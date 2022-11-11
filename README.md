@@ -55,8 +55,50 @@
 # ITA/TEC Motomamis IoT/Network Project
 University exchange project between ITA and TEC students
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## About the project
 We're proposing one solution on the communication problem in flood catastrophes using drones (IoT) and Wifi communication to help rescue central identify isolated people.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built with
+* [![Python][Python]][Python-url]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Example text.
+
+### Prerequisites
+
+Example text.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Installation process._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -69,3 +111,6 @@ We're proposing one solution on the communication problem in flood catastrophes 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/lucas-maia-morais/gsl-iot-22-motomamis/blob/master/LICENSE
+
+[Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
