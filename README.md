@@ -31,7 +31,7 @@
   <ol>
     <li><a href="#objective">Objective</a></li>
     <li><a href="#motivation">Motivation</a></li>
-    <li><a href="docs/US&AC.md">User Stories and Acceptance Criteria</a></li>
+    <li><a href="docs/US&AC/US&AC.md">User Stories and Acceptance Criteria</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
