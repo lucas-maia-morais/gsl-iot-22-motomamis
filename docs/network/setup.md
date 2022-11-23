@@ -14,7 +14,7 @@ nat0 ---|
 
 ```console
 wifi@wifi-virtualbox:~$ cd mininet-wifi/mininet/examples/
-wifi@wifi-virtualbox:~$ sudo python nat.py
+wifi@wifi-virtualbox:~$ sudo python mynat.py
 ```
 
-After you will have mininet terminal do finish mininet configurations
+After you have finished this part of configurations, continue on (MQTT setup)[../mqtt/setup.md]
