@@ -2,6 +2,8 @@
 
 1. Import and start the virtual machine configured disponible (here(TODO: Finish))[google.com]
 
+The machine name is wifi, and password is wifi as well
+
 2. Start the topology network used:
 
         Topology used
