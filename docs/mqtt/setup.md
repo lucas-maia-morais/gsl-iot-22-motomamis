@@ -10,7 +10,7 @@ nat0 ---|
         |- h4
 ```
 
-After finished [network setup](../network/setup) and you have mininet CLI, let's continue configuration
+After finished [network setup](../network/setup.md) and you have mininet CLI, let's continue configuration
 Here you'll have to manage a lot of terminals, so please be careful on the instructions.
 
 1. Start central broker(everything is already configured in VM) that is the middleware from utput 
