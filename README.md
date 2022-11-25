@@ -32,6 +32,8 @@
     <li><a href="#objective">Objective</a></li>
     <li><a href="#motivation">Motivation</a></li>
     <li><a href="docs/US&AC/US&AC.md">User Stories and Acceptance Criteria</a></li>
+    <li><a href="docs/network/setup.md">Network Setup</a></li>
+    <li><a href="docs/mqtt/setup.md">MQTT Setup</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
