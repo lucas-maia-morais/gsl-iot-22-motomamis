@@ -1,1 +1,1 @@
-documentations
+The virtual machine that contains the mininet and the mqtt components can be downloaded from: https://drive.google.com/drive/folders/1TYkj-6eeRgOPq-Uw7VloyoGS9tJ9iR7c?usp=sharing
