@@ -31,6 +31,7 @@
   <ol>
     <li><a href="#objective">Objective</a></li>
     <li><a href="#motivation">Motivation</a></li>
+    <li><a href="docs/US&AC/US&AC.md">Documentations</a></li>
     <li><a href="docs/US&AC/US&AC.md">User Stories and Acceptance Criteria</a></li>
     <li><a href="docs/network/setup.md">Network Setup</a></li>
     <li><a href="docs/mqtt/setup.md">MQTT Setup</a></li>
@@ -90,6 +91,16 @@ The project is a collaboration between students from [TEC Montrrey](https://en.w
 In the second part, a technological solution will be developed and implemented in order to help with the communication problem during flood catastrophes using drones (IoT) and Wifi protocol to help the rescue central to identify isolated people. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Architecture
+#### General architecture
+![image](/images/General.png)
+
+#### Network architecture
+![image](/images/Network.png)
+
+#### Cloud architecture
+![image](/images/Cloud.png)
 
 ### Built with
 * [![Python][Python]][Python-url]
