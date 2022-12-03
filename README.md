@@ -94,13 +94,13 @@ In the second part, a technological solution will be developed and implemented i
 
 ### Architecture
 #### General architecture
-![image](../images/General.png)
+![image](/images/General.png)
 
 #### Network architecture
-![image](../images/Network.png)
+![image](/images/Network.png)
 
 #### Cloud architecture
-![image](../images/Cloud.png)
+![image](/images/Cloud.png)
 
 ### Built with
 * [![Python][Python]][Python-url]
