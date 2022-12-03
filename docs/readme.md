@@ -12,7 +12,7 @@
 
 ### Architecture of the solution IoT
 
-[![IMAGE_ALT](https://img.youtube.com/vi/UQBPcVspl2Y/0.jpg)(https://youtu.be/UQBPcVspl2Y)]
+[![IMAGE_ALT](https://img.youtube.com/vi/UQBPcVspl2Y/0.jpg)](https://youtu.be/UQBPcVspl2Y)
 
 ## External Files
 
