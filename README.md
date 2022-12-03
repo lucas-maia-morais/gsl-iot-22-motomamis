@@ -92,6 +92,16 @@ In the second part, a technological solution will be developed and implemented i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Architecture
+#### General architecture
+![image](../images/General.png)
+
+#### Network architecture
+![image](../images/Network.png)
+
+#### Cloud architecture
+![image](../images/Cloud.png)
+
 ### Built with
 * [![Python][Python]][Python-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
